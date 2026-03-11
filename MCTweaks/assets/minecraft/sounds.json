@@ -1,0 +1,47 @@
+{
+  "entity.generic.big_fall": {
+    "sounds": [
+      {
+        "name": "damage/fallbig",
+        "pitch": 1,
+        "volume": 1
+      },
+      {
+        "name": "damage/fallbig2",
+        "pitch": 1,
+        "volume": 1
+      }
+      ],
+    "replace": true
+  },
+  "entity.hostile.big_fall": {
+    "sounds": [
+      {
+        "name": "damage/fallbig",
+        "pitch": 1,
+        "volume": 1
+      },
+      {
+        "name": "damage/fallbig2",
+        "pitch": 1,
+        "volume": 1
+      }
+      ],
+    "replace": true
+  },
+  "entity.player.big_fall": {
+    "sounds": [
+      {
+        "name": "damage/fallbig",
+        "pitch": 1,
+        "volume": 1
+      },
+      {
+        "name": "damage/fallbig2",
+        "pitch": 1,
+        "volume": 1
+      }
+      ],
+    "replace": true
+  }
+}
