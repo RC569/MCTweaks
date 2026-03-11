@@ -1,47 +1,338 @@
 {
-  "entity.generic.big_fall": {
-    "sounds": [
-      {
-        "name": "damage/fallbig",
-        "pitch": 1,
-        "volume": 1
-      },
-      {
-        "name": "damage/fallbig2",
-        "pitch": 1,
-        "volume": 1
-      }
-      ],
-    "replace": true
-  },
-  "entity.hostile.big_fall": {
-    "sounds": [
-      {
-        "name": "damage/fallbig",
-        "pitch": 1,
-        "volume": 1
-      },
-      {
-        "name": "damage/fallbig2",
-        "pitch": 1,
-        "volume": 1
-      }
-      ],
-    "replace": true
-  },
-  "entity.player.big_fall": {
-    "sounds": [
-      {
-        "name": "damage/fallbig",
-        "pitch": 1,
-        "volume": 1
-      },
-      {
-        "name": "damage/fallbig2",
-        "pitch": 1,
-        "volume": 1
-      }
-      ],
-    "replace": true
-  }
+    "entity.generic.big_fall": {
+        "sounds": [{
+                "name": "damage/fallbig",
+                "pitch": 1,
+                "volume": 1
+            },
+            {
+                "name": "damage/fallbig2",
+                "pitch": 1,
+                "volume": 1
+            }
+        ],
+        "replace": true
+    },
+    "entity.hostile.big_fall": {
+        "sounds": [{
+                "name": "damage/fallbig",
+                "pitch": 1,
+                "volume": 1
+            },
+            {
+                "name": "damage/fallbig2",
+                "pitch": 1,
+                "volume": 1
+            }
+        ],
+        "replace": true
+    },
+    "entity.player.big_fall": {
+        "sounds": [{
+                "name": "damage/fallbig",
+                "pitch": 1,
+                "volume": 1
+            },
+            {
+                "name": "damage/fallbig2",
+                "pitch": 1,
+                "volume": 1
+            }
+        ],
+        "replace": true
+    },
+    "entity.wolf.ambient": {
+        "sounds": [
+            "mob/wolf/classic/bark1",
+            "mob/wolf/classic/bark2",
+            "mob/wolf/classic/bark3"
+        ],
+        "replace": true
+    },
+    "entity.wolf.death": {
+        "sounds": [
+            "mob/wolf/classic/death"
+        ],
+        "replace": true
+    },
+    "entity.wolf.growl": {
+        "sounds": [
+            "mob/wolf/classic/growl1",
+            "mob/wolf/classic/growl2",
+            "mob/wolf/classic/growl3"
+        ],
+        "replace": true
+    },
+    "entity.wolf.hurt": {
+        "sounds": [
+            "mob/wolf/classic/hurt1",
+            "mob/wolf/classic/hurt2",
+            "mob/wolf/classic/hurt3"
+        ],
+        "replace": true
+    },
+    "entity.wolf.pant": {
+        "sounds": [
+            "mob/wolf/classic/panting"
+        ],
+        "replace": true
+    },
+    "entity.wolf.whine": {
+        "sounds": [
+            "mob/wolf/classic/whine"
+        ],
+        "replace": true
+    },
+    "entity.wolf_angry.ambient": {
+        "sounds": [
+            "mob/wolf/classic/bark1",
+            "mob/wolf/classic/bark2",
+            "mob/wolf/classic/bark3"
+        ],
+        "replace": true
+    },
+    "entity.wolf_angry.death": {
+        "sounds": [
+            "mob/wolf/classic/death"
+        ],
+        "replace": true
+    },
+    "entity.wolf_angry.growl": {
+        "sounds": [
+            "mob/wolf/classic/growl1",
+            "mob/wolf/classic/growl2",
+            "mob/wolf/classic/growl3"
+        ],
+        "replace": true
+    },
+    "entity.wolf_angry.hurt": {
+        "sounds": [
+            "mob/wolf/classic/hurt1",
+            "mob/wolf/classic/hurt2",
+            "mob/wolf/classic/hurt3"
+        ],
+        "replace": true
+    },
+    "entity.wolf_angry.pant": {
+        "sounds": [
+            "mob/wolf/classic/panting"
+        ],
+        "replace": true
+    },
+    "entity.wolf_angry.whine": {
+        "sounds": [
+            "mob/wolf/classic/whine"
+        ],
+        "replace": true
+    },
+    "entity.wolf_big.ambient": {
+        "sounds": [
+            "mob/wolf/classic/bark1",
+            "mob/wolf/classic/bark2",
+            "mob/wolf/classic/bark3"
+        ],
+        "replace": true
+    },
+    "entity.wolf_big.death": {
+        "sounds": [
+            "mob/wolf/classic/death"
+        ],
+        "replace": true
+    },
+    "entity.wolf_big.growl": {
+        "sounds": [
+            "mob/wolf/classic/growl1",
+            "mob/wolf/classic/growl2",
+            "mob/wolf/classic/growl3"
+        ],
+        "replace": true
+    },
+    "entity.wolf_big.hurt": {
+        "sounds": [
+            "mob/wolf/classic/hurt1",
+            "mob/wolf/classic/hurt2",
+            "mob/wolf/classic/hurt3"
+        ],
+        "replace": true
+    },
+    "entity.wolf_big.pant": {
+        "sounds": [
+            "mob/wolf/classic/panting"
+        ],
+        "replace": true
+    },
+    "entity.wolf_big.whine": {
+        "sounds": [
+            "mob/wolf/classic/whine"
+        ],
+        "replace": true
+    },
+    "entity.wolf_cute.ambient": {
+        "sounds": [
+            "mob/wolf/classic/bark1",
+            "mob/wolf/classic/bark2",
+            "mob/wolf/classic/bark3"
+        ],
+        "replace": true
+    },
+    "entity.wolf_cute.death": {
+        "sounds": [
+            "mob/wolf/classic/death"
+        ],
+        "replace": true
+    },
+    "entity.wolf_cute.growl": {
+        "sounds": [
+            "mob/wolf/classic/growl1",
+            "mob/wolf/classic/growl2",
+            "mob/wolf/classic/growl3"
+        ],
+        "replace": true
+    },
+    "entity.wolf_cute.hurt": {
+        "sounds": [
+            "mob/wolf/classic/hurt1",
+            "mob/wolf/classic/hurt2",
+            "mob/wolf/classic/hurt3"
+        ],
+        "replace": true
+    },
+    "entity.wolf_cute.pant": {
+        "sounds": [
+            "mob/wolf/classic/panting"
+        ],
+        "replace": true
+    },
+    "entity.wolf_cute.whine": {
+        "sounds": [
+            "mob/wolf/classic/whine"
+        ],
+        "replace": true
+    },
+    "entity.wolf_grumpy.ambient": {
+        "sounds": [
+            "mob/wolf/classic/bark1",
+            "mob/wolf/classic/bark2",
+            "mob/wolf/classic/bark3"
+        ],
+        "replace": true
+    },
+    "entity.wolf_grumpy.death": {
+        "sounds": [
+            "mob/wolf/classic/death"
+        ],
+        "replace": true
+    },
+    "entity.wolf_grumpy.growl": {
+        "sounds": [
+            "mob/wolf/classic/growl1",
+            "mob/wolf/classic/growl2",
+            "mob/wolf/classic/growl3"
+        ],
+        "replace": true
+    },
+    "entity.wolf_grumpy.hurt": {
+        "sounds": [
+            "mob/wolf/classic/hurt1",
+            "mob/wolf/classic/hurt2",
+            "mob/wolf/classic/hurt3"
+        ],
+        "replace": true
+    },
+    "entity.wolf_grumpy.pant": {
+        "sounds": [
+            "mob/wolf/classic/panting"
+        ],
+        "replace": true
+    },
+    "entity.wolf_grumpy.whine": {
+        "sounds": [
+            "mob/wolf/classic/whine"
+        ],
+        "replace": true
+    },
+    "entity.wolf_puglin.ambient": {
+        "sounds": [
+            "mob/wolf/classic/bark1",
+            "mob/wolf/classic/bark2",
+            "mob/wolf/classic/bark3"
+        ],
+        "replace": true
+    },
+    "entity.wolf_puglin.death": {
+        "sounds": [
+            "mob/wolf/classic/death"
+        ],
+        "replace": true
+    },
+    "entity.wolf_puglin.growl": {
+        "sounds": [
+            "mob/wolf/classic/growl1",
+            "mob/wolf/classic/growl2",
+            "mob/wolf/classic/growl3"
+        ],
+        "replace": true
+    },
+    "entity.wolf_puglin.hurt": {
+        "sounds": [
+            "mob/wolf/classic/hurt1",
+            "mob/wolf/classic/hurt2",
+            "mob/wolf/classic/hurt3"
+        ],
+        "replace": true
+    },
+    "entity.wolf_puglin.pant": {
+        "sounds": [
+            "mob/wolf/classic/panting"
+        ],
+        "replace": true
+    },
+    "entity.wolf_puglin.whine": {
+        "sounds": [
+            "mob/wolf/classic/whine"
+        ],
+        "replace": true
+    },
+    "entity.wolf_sad.ambient": {
+        "sounds": [
+            "mob/wolf/classic/bark1",
+            "mob/wolf/classic/bark2",
+            "mob/wolf/classic/bark3"
+        ],
+        "replace": true
+    },
+    "entity.wolf_sad.death": {
+        "sounds": [
+            "mob/wolf/classic/death"
+        ],
+        "replace": true
+    },
+    "entity.wolf_sad.growl": {
+        "sounds": [
+            "mob/wolf/classic/growl1",
+            "mob/wolf/classic/growl2",
+            "mob/wolf/classic/growl3"
+        ],
+        "replace": true
+    },
+    "entity.wolf_sad.hurt": {
+        "sounds": [
+            "mob/wolf/classic/hurt1",
+            "mob/wolf/classic/hurt2",
+            "mob/wolf/classic/hurt3"
+        ],
+        "replace": true
+    },
+    "entity.wolf_sad.pant": {
+        "sounds": [
+            "mob/wolf/classic/panting"
+        ],
+        "replace": true
+    },
+    "entity.wolf_sad.whine": {
+        "sounds": [
+            "mob/wolf/classic/whine"
+        ],
+        "replace": true
+    }
 }
