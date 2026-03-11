@@ -1,6 +1,7 @@
 {
   "pack": {
-    "pack_format": 8,
-    "description": "small tweaks for 1.21.11 by RC. See changes.txt"
+    "description": "A compilation of small tweaks. See README.txt",
+    "min_format": 75,
+    "max_format": 75
   }
 }
