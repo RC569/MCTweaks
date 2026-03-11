@@ -1,3 +1,7 @@
+A resource pack I use when I play minecraft that changes a couple of things.
+
+Use it with this: https://vanillatweaks.net/share#UcPqDV
+
 Changes
 
 - 1.0 fleshy damage sounds
