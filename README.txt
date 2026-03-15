@@ -1,6 +1,5 @@
 A resource pack I use when I play minecraft that changes a couple of things.
 
-Use it with this: https://vanillatweaks.net/share#UcPqDV
 
 Changes
 
@@ -10,3 +9,16 @@ Changes
 - Title screen uses the old, pixelated logo from before 1.20
 - Fire is lower when burning, but not when in the world (by Oculie, https://modrinth.com/resourcepack/low-fire-pack)
 - Nether wart crops are more obvious when they're ready to be harvested (by Amaro_Lunatico, https://modrinth.com/resourcepack/clearer-nether-wart, licensed under CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/), no changes were made)
+
+Recommended packs
+In order of what I have in-game
+
+MCTweaks
+Default Dark Mode (https://modrinth.com/resourcepack/default-dark-mode)
+ClientSort Dark Mode (built in to https://modrinth.com/mod/clientsort)
+Chest Tracker Dark Mode (built in to https://modrinth.com/mod/chest-tracker-port)
+C418 Songs Only (https://modrinth.com/resourcepack/c418-songs-only)
+Even Better Enchants (https://modrinth.com/resourcepack/even-better-enchants)
+Vanilla Tweaks (https://vanillatweaks.net/share#UcPqDV)
+Default Connected Textures (built in to https://modrinth.com/mod/continuity)
+Glass Pane Culling Fix (built in to https://modrinth.com/mod/continuity)
