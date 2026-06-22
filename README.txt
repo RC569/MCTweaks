@@ -3,7 +3,7 @@ A resource pack I use in Minecraft 1.21.11 that changes a couple of things.
 Changes
 
 - Pre-1.4.2 damage sounds
-- All wolves use the classic sounds (https://minecraft.wiki/w/Wolf#Classic_wolf)
+- All wolves, chickens, cows, and pigs use the classic sounds
 - Default skins are only either Steve or Alex
 - Title screen uses the pre-1.20 pixelated logo
 - Fire is lower when burning, but not when in the world (by Oculie, https://modrinth.com/resourcepack/low-fire-pack)
