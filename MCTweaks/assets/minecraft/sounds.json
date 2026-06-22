@@ -41,48 +41,6 @@
         ],
         "replace": true
     },
-    "entity.wolf.ambient": {
-        "sounds": [
-            "mob/wolf/classic/bark1",
-            "mob/wolf/classic/bark2",
-            "mob/wolf/classic/bark3"
-        ],
-        "replace": true
-    },
-    "entity.wolf.death": {
-        "sounds": [
-            "mob/wolf/classic/death"
-        ],
-        "replace": true
-    },
-    "entity.wolf.growl": {
-        "sounds": [
-            "mob/wolf/classic/growl1",
-            "mob/wolf/classic/growl2",
-            "mob/wolf/classic/growl3"
-        ],
-        "replace": true
-    },
-    "entity.wolf.hurt": {
-        "sounds": [
-            "mob/wolf/classic/hurt1",
-            "mob/wolf/classic/hurt2",
-            "mob/wolf/classic/hurt3"
-        ],
-        "replace": true
-    },
-    "entity.wolf.pant": {
-        "sounds": [
-            "mob/wolf/classic/panting"
-        ],
-        "replace": true
-    },
-    "entity.wolf.whine": {
-        "sounds": [
-            "mob/wolf/classic/whine"
-        ],
-        "replace": true
-    },
     "entity.wolf_angry.ambient": {
         "sounds": [
             "mob/wolf/classic/bark1",
