@@ -334,5 +334,118 @@
             "mob/wolf/classic/whine"
         ],
         "replace": true
+    },
+    "entity.pig_big.ambient": {
+        "sounds": [
+            "mob/pig/say1",
+            "mob/pig/say2",
+            "mob/pig/say3"
+        ],
+        "replace": true
+    },
+    "entity.pig_big.death": {
+        "sounds": [
+            "mob/pig/death"
+        ],
+        "replace": true
+    },
+    "entity.pig_big.eat": {
+        "sounds": [
+            "mob/pig/eat1",
+            "mob/pig/eat2"
+        ],
+        "replace": true
+    },
+    "entity.pig_big.hurt": {
+        "sounds": [
+            "mob/pig/say1",
+            "mob/pig/say2",
+            "mob/pig/say3"
+        ],
+        "replace": true
+    },
+    "entity.pig_mini.ambient": {
+        "sounds": [
+            "mob/pig/say1",
+            "mob/pig/say2",
+            "mob/pig/say3"
+        ],
+        "replace": true
+    },
+    "entity.pig_mini.death": {
+        "sounds": [
+            "mob/pig/death"
+        ],
+        "replace": true
+    },
+    "entity.pig_mini.eat": {
+        "sounds": [
+            "mob/pig/eat1",
+            "mob/pig/eat2"
+        ],
+        "replace": true
+    },
+    "entity.pig_mini.hurt": {
+        "sounds": [
+            "mob/pig/say1",
+            "mob/pig/say2",
+            "mob/pig/say3"
+        ],
+        "replace": true
+    },
+    "entity.chicken_picky.ambient": {
+        "sounds": [{
+                "name": "mob/chicken/say1",
+                "volume": 0.8
+            },
+            {
+                "name": "mob/chicken/say2",
+                "volume": 0.8
+            },
+            {
+                "name": "mob/chicken/say3",
+                "volume": 0.8
+            }
+        ],
+        "replace": true
+    },
+    "entity.chicken_picky.death": {
+        "sounds": [
+            "mob/chicken/hurt1",
+            "mob/chicken/hurt2"
+        ],
+        "replace": true
+    },
+    "entity.chicken_picky.hurt": {
+        "sounds": [
+            "mob/chicken/hurt1",
+            "mob/chicken/hurt2"
+        ],
+        "replace": true
+    },
+    "entity.cow_moody.ambient": {
+        "sounds": [
+            "mob/cow/say1",
+            "mob/cow/say2",
+            "mob/cow/say3",
+            "mob/cow/say4"
+        ],
+        "replace": true
+    },
+    "entity.cow_moody.death": {
+        "sounds": [
+            "mob/cow/hurt1",
+            "mob/cow/hurt2",
+            "mob/cow/hurt3"
+        ],
+        "replace": true
+    },
+    "entity.cow_moody.hurt": {
+        "sounds": [
+            "mob/cow/hurt1",
+            "mob/cow/hurt2",
+            "mob/cow/hurt3"
+        ],
+        "replace": true
     }
 }
